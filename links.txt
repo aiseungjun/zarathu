@@ -1,0 +1,3 @@
+slack: https://app.slack.com/client/TGQ683ZEX/D0860CU7B4N
+rstudio server: https://intern.zarathu.com/
+github: https://github.com/jinseob2kim/R-skku-biohrs
