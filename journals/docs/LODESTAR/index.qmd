@@ -10,7 +10,7 @@ format:
   revealjs:
     slide-number: true
     transition: slide
-    theme: dark
+    theme: white
     footer: LOADSTAR
     reference-location: document
     scrollable: true
