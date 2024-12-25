@@ -1,9 +1,10 @@
 ---
-title: "Lower-intensity Statin + Ezetimibe or Statin monotherapy in ASCVD"
+title: " Long-term efficacy and safety of moderate-intensity statin 
+with ezetimibe combination therapy in ASCVD"
 title-slide-attributes:
-    data-background-image: "RACING Background image.jpg"
+    data-background-image: "base image.png"
     data-background-size: contain
-    data-background-opacity: "0.1"
+    data-background-opacity: "0.3"
 subtitle: "Lipid lowering by combination"
 author: "Seungjun, Lee"
 format: 
@@ -17,7 +18,7 @@ format:
 editor: visual
 ---
 
-#Introduction
+# Introduction
 
 ## Glossary_1
 
@@ -27,19 +28,20 @@ editor: visual
 
 ## Glossary_2
 
--   **Statin** : 스타틴; 간 내 콜레스테롤 합성 효소 (3-hydroxy-3-methylglutaryl coenzyme A)를 억제하여 혈중 LDL-C 농도를 낮추는 약물군. <br><br>
+-   **Statin** : 스타틴; 간 내 콜레스테롤 합성 효소 (3-hydroxy-3-methylglutaryl coenzyme A)를 억제하여 혈중 LDL-C 농도를 낮추는 약물군. 
+-   **Ezetimibe** : 에제티미브; 소장의 콜레스트롤 흡수를 억제하여 혈중 LDL-C 농도를 낮추는 약. <br><br>
 -   **Low-density lipoprotein cholesterol(LDL-C)** : 저밀도 지단백 콜레스테롤; 간에서 조직 말단, 혈관으로 운반되는 "나쁜" 콜레스테롤로 이 수치 감소가 주요 목적.
--   **Ezetimibe** : 에제티미브; 소장의 콜레스트롤 흡수를 억제하여 혈중 LDL-C 농도를 낮추는 약.
+
 
 ## Background_1
 
--   **ASCVD** 환자는 **심혈관질환 고위험군**으로, **LDL-C 감소**가 예후를 크게 개선시키기 때문에 국제지침은 **고강도 statin 처방을** 권고하지만, **많은 부작용와 이에 따른** 때문에 환자의 복약 순응도가 떨어진다. <br><br>
--   이에 또다른 지질강하제인 Ezetimibe의 대규모 RCT가 진행되었지만, 이전 연구들은 **동일 용량 statin**에서 **ezemtimibe의 부가적인 효과**를 검증하였기 때문에 **statin 복용량이 최대 용량에 도달했을 때 비로소 ezetimibe의 병용을 권고하였다.**
+-   **ASCVD** 환자는 **심혈관질환 고위험군**으로, **LDL-C 감소**가 예후를 크게 개선시키기 때문에 국제지침은 **고강도 statin 처방을** 권고하지만, **많은 부작용**이 있으며, 때문에 환자의 복약 순응도가 떨어진다. <br><br>
+-   이에 또다른 지질강하제인 ezetimibe와의 병용에 대한 여러 RCT가 진행되었지만, 이들은 **동일 용량 statin**에서 **ezemtimibe의 부가적인 효과**를 검증하였기 때문에 **statin 복용량이 최대 용량에 도달했을 때 비로소 ezetimibe의 병용을 권고하였다.**
 
 ## Background_2
 
--   중간 강도 statin과 ezetimibe의 병용요법을 고강도 statin 단독요법과 비교한 연구들이 있었으나, **환자수가 적고 (최대 891명), 추적관찰 기간이 짧았으며 (최장 24주) 임상 결과가 아닌 LDL-C 농도와 같은 표지자를 평가했다.** <br><br>
--   따라서 저자들은 **효능과 안전성**의 측면에서, **중간 강도 statin과 ezetimibe의 병용 요법이 고강도 스타틴 단독요법에 비해** 비열등함(noninferior)을 검증하기 위해 **RACING** 연구를 시행하였다.
+-   또한, 중간 강도 statin과 ezetimibe의 병용요법을 고강도 statin 단독요법과 비교한 연구들이 있었으나, **환자수가 적고 (최대 891명), 추적관찰 기간이 짧았으며 (최장 24주), 임상 결과가 아닌 LDL-C 농도와 같은 표지자를 통해 평가하였다.** <br><br>
+-   따라서 위 저자들은 **효능과 안전성**의 측면에서, **중간 강도 statin과 ezetimibe의 병용 요법**이 **고강도 스타틴 단독요법에 비해** 비열등함(noninferior)을 검증하기 위해 **RACING** trial을 시행하였다.
 
 # Method
 
@@ -61,28 +63,28 @@ editor: visual
 
 -   **병용요법**: Rosuvastatin 10mg + Ezetimibe 10mg 1일 1회 <br><br>
 -   **단독요법**: Rosuvastatin 20mg 1일 1회 <br><br>
--   유지용량: 초기용량을 가능한 그대로 유지하도록 함.
+-   초기용량을 가능한 그대로 유지하도록 함.
 :::
 
 ## Endpoints
 
 -  **Primary Endpoint**: **Cardiovascular Death** (심혈관질환 사망) + **Major cardiovascular event** (주요 심혈관질환) + **Non-fatal stroke** (비치사성 뇌졸중) <br><br>
 
-- **Secondary Endpoint**: **1, 2, 3년째 목표 도달율 (LDL-C \< 70mg/dL)** All-cause Death + Major cardiovascular event + Non-fatal stroke,    **안전성**(불내성으로 인한 감량 혹은 중단, 당뇨&근병증 등)
+- **Secondary Endpoint**: **1, 2, 3년째 환자들의 LDL-C \< 70mg/dL 도달율 **(Efficacy)과 **불내성으로 인한 감량 또는 중단 & 당뇨 & 근병증 등**(safety)
 
 ## Follow up
 
--   2개월, 6개월; 이후 매년, **총 3년** <br><br>
+-   2, 6, 12, 24, **36개월**로 설정 <br><br>
 -   지질 상태는 1, 2, 3년에 관함.
 
 ## Sample Size
 
--   각 군 3년 primary endpoint 누적 발생률을 13%, 14%로 가정함.
+-   각 군 3년 primary endpoint 누적 발생률을 13%, 14%로 가정.
 -   Noninferiority margins은 2.0%로 설정.
 -   검정력은 80%로 설정.
 -   단측검정 1종 오류 확률은 5.0%로 설정.
--   탈락율은 15%로 설정<br><br>
--   **최종 3780명, 각 군 1890명**
+-   탈락율(추적 손실)은 15%로 가정. <br><br>
+-   **최종 3780명, 각 군 1890명**이 필요.
 
 ## Statistical analysis
 
@@ -110,20 +112,20 @@ editor: visual
 ## Flow diagram, Baseline
 
 ::: panel-tabset
-### Figure 1
+### Diagram
 
 <img src="RACING Figure 1.png"/>
 
-### Table 1
+### Baseline
 
 <img src="RACING Table 1.png"/>
 :::
 
 ## Primary Endpoint
 
--   **병용요법 군, 단독요법 군의 Primary outcome 누적발생률이 각각 9.1%, 9.9%**로 나타났다. -0.78%pp; 90% CI -2.39 to 0.83 <br><br>
+-   **병용요법 군, 단독요법 군의 Primary outcome 누적발생률이 각각 9.1%, 9.9%**로 나타났다. 절대 차이는 -0.78%pp; 95% CI는 -2.39pp to 0.83pp, 이므로 비열등성을 증명하였다. Post-hoc analysis에서는 one-sided 97∙5% CI의 상한선이 1.13%pp으로 non-inferiority margin 안으로 들어왔음을 보였다.
 -   두 군의 1, 2, 3년째 용법 유지율은 95% vs 94%, 94% vs 91%, 93% vs 90% <br><br>
--   두 군의 심근경색 발생율이 매우 낮았음
+-   두 군 모두 심근경색 발생율이 매우 낮았다.
 
 ## Clinical endpoint
 
@@ -137,49 +139,37 @@ editor: visual
 <img src="RACING Figure 2.jpg"/>
 :::
 
-## Secondary Endpoint_Efficacy
+## Secondary Endpoint
 
--   두 군의 1, 2, 3년째 LDL-C 목표 도달율은 각각 **73%** vs 55%, **75%** vs 60%, **72%** vs 58% (all p-value \< 0.0001)<br><br>
+-   두 군의 1, 2, 3년째 LDL-C 목표 도달율은 각각 **73%** vs 55%, **75%** vs 60%, **72%** vs 58% (각각 모두두 p-value \< 0.0001)<br><br>
 -   사후 검정 결과 두 군의 1, 2, 3년째 LDL-C \< 50mg/dL 도달율은 최대 **45%** vs 29% <br><br>
 -   두 군의 LDL-C 중위값은 **58(48-71)mg/dL** vs 66(56-80)mg/dL (p-value \< 0.0001)
 
-## LDL \< 70mg/dL
-
-::: panel-tabset
-### Table 3
+## Secondary Endpoint_Efficacy
 
 <img src="RACING Table 3.png"/>
-:::
+
 
 ## Secondary Endpoint_Safety
 
 -   두 군의 감량/중단은 4.8% vs 8.2% (p \< 0.0001)<br><br>
+<img src="RACING Table 4.png"/>
 
 ## Subgroup analysis
 
--   Subgroup 분석에서도 결과 경향성 유지됨
--   Per protocol 분석도 마찬가지
-
-## Safety Endpoint, Subgroup analysis
-
-::: panel-tabset
-### Table 4
-
-<img src="RACING Table 4.png"/>
-
-### Figure 3
+-   Subgroup과 Per-protocol 분석에서도 결과 경향성 유지.
 
 <img src="RACING Figure 3.png"/>
-:::
+
 
 ## Conclusion
 
--   **RACING trial은 3년의 관찰 결과, ASCVD 환자를 대상으로 중간 강도 statin과 ezetimibe의 병용요법이 고강도 statin 단독요법에 비해 임상적으로 열등하지 않으며, LDL-C 목표치 달성 및 복약 유지 면에서는 더 우월할 수 있음을 보였다.**
+-   **RACING trial**은 3년 동안 3780명의 ASCVD 환자를 대상으로 follow-up을 진행한 결과, **ASCVD 환자를 대상으로 중간 강도 statin과 ezetimibe의 병용요법**이 **고강도 statin 단독요법**에 비해 **임상적으로 열등하지 않으며**, **LDL-C 목표치 달성 및 복약 유지 면에서는 더 우월**할 수 있음을 보였다.
 
 ## Discussion_1
 
 -   Superiority trial로 설계하기에는 환자 수가 부족했다. <br><br>
--   본 연구 결과는 환자가 중간 강도 statin에서 증량이 어려울 때 ezetimibe을 병용하는 전략뿐 아니라, **고강도 statin으로 증량하지 않고 바로 ezetimibe을 병용하는 전략이 고려되어야함을 시사한다.** <br><br>
+-   본 연구 결과는 환자가 statin 증량이 어려울 때 ezetimibe을 병용하는 전략뿐 아니라, **고강도 statin으로 증량하지 않고 바로 ezetimibe을 병용하는 전략이 고려되어야함을 시사한다.** <br><br>
 -   고령, 여성, 비만, 당뇨, 갑상선저하증, 간부전, 신부전 환자들이 특히 statin 내약성이 떨어진다.
 
 ## Discussion_2
@@ -190,8 +180,8 @@ editor: visual
 
 ## Limits
 
--   의사가 스타틴 용법을 안 채로 치료를 시행했다 **(open-label)**.<br><br>
--   **Primary endpoint 누적발생률이 예상보다 낮아** (13\~14% vs 9.1\~9.9%) 연구가 **underpowered** 됐을 가능성이 있다. <br><br>
+-   의사가 statin 용법을 안 채로 치료를 시행했다 **(open-label)**.<br><br>
+-   **Primary endpoint 누적발생률이 예상보다 낮아** (13\~14% vs 9.1\~9.9%) 충분한 검정력을 확보하지 못했을 가능성이 있다. <br><br>
 -   **Primary endpoint 누적발생률이 낮아** 비교가 어려울 수 있다.
 
 ## Editorial

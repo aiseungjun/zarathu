@@ -1,7 +1,7 @@
 ---
 title: "Treat-to-Target or High-Intensity Statin in Coronary Artery Disease"
 title-slide-attributes:
-    data-background-image: "LOADSTAR Background image.jpg"
+    data-background-image: "base image.png"
     data-background-size: contain
     data-background-opacity: "0.3"
 subtitle: "Lipid lowering with Tailored approach"
@@ -34,19 +34,19 @@ editor: visual
 
 -   ASCVD 환자군에서 statin으로 LDL-C 수치를 절대적으로 감소시킬 경우 주요 혈관 사건의 비례적 감소와 연관성이 있다고 밝혀졌다. <br><br>
 -   때문에, 현재까지의 연구결과로는 LDL-C를 낮추면 낮출수록 ASCVD 위험이 계속 줄었고, 여러 기관에서 **초기 LDL-C를 50% 이상 강하게 감소시키는 것을 목표로 고강도 statin 사용을 권장**하였다.(High-Intensity Statin) <br><br>
--   그러나 최근 연구에서, statin에 대한 반응은 **개인차**가 있으며, 지속적인 고강도 statin 치료는 **근육, 간, 콩팥**에 해로움을 보였다.<br><br>
+-   그러나 최근 연구는 statin에 대한 반응은 **개인차**가 있으며, 지속적인 고강도 statin 치료는 **근육, 간, 콩팥**에 해로움을 밝혔다.<br><br>
 
 ## Background_2
 
 -   이러한 부작용을 고려하여 중등도 강도 statin으로 시작하며, 이후에는 **특정 LDL-C 농도에 도달하도록 처방할 때마다 약물 용량을 조절하는 대안이 (Treat-to-Target)** 제시되었다.<br><br>
--   그러나 이러한 대안은 RCT 연구로로 충분히 평가되지 않았고, 두 치료법을 직접 비교한 (head-to-head) 연구가 없기 때문에 Treat-to-Target의 사용에 대한 근거가 부족하다.<br><br>
--   따라서 저자들은 **ASCVD 환자들의 이차 예방**의 측면에서, **treat-to-target이 high-intensity에 비해 비열등함( noninferior)**을 검증하기 위해 **LODESTAR** 연구를 시행하였다.
+-   그러나 이러한 대안은 RCT 연구로 충분히 평가되지 않았고, 두 치료법을 직접 비교한 (head-to-head) 연구가 없기 때문에 Treat-to-Target의 사용에 대한 근거가 부족하다.<br><br>
+-   따라서 저자들은 **ASCVD 환자들의 이차 예방**의 측면에서, **treat-to-target이 high-intensity에 비해 비열등함( noninferior)**을 검증하기 위해 **LODESTAR** trial을 시행하였다.
 
 # Method
 
 ## Study design
 
--   Investigator-initiated, Prospective, Multicenter, Randomized, Open-label, Noninferiority trial
+-   Investigator-initiated, Prospective, Multicenter, Randomized, Open-label, Noninferiority trial <br><br>
 -   한국의 12개 기관에서 시행
 -   임상적으로 ASCVD 고위험군인 CAD를 진단받은 19세 이상의 환자들 (안전형 협심증, 불안정 협심증, NSTEMI, STEMI)
 
@@ -57,11 +57,11 @@ editor: visual
 
 -   Treat-to-target, high-intensity 군에 4400명을 **1:1 랜덤 배정**
 -   각 군은 다시 복용할 statin 종류(rosuvastatin, atorvastatin)에 따라 **1:1 랜덤 배정**.
--   베이스라인 LDL-C 초기 농도, 당뇨병 여부부, 급성 관상동맥 증후군에 따라 층화.
+-   베이스라인 LDL-C 초기 농도, 당뇨병 여부, 급성 관상동맥 증후군에 따라 층화.
 
 ### Statin intensity
 
--   statin 강도는 2013 ACC/AHA 지침으로,
+statin 강도는 2013 ACC/AHA 지침으로,
 -   고강도: Rosuvastatin 20mg or Atorvastatin 40mg
 -   중간 강도: Rosuvastatin 10mg or Atorvastatin 20mg
 
@@ -88,7 +88,7 @@ editor: visual
 -   Noninferiority margin은 3.0%로 설정.
 -   검정력은 80%로 설정.
 -   단측검정 1종 오류 확률은 2.5%로 설정.
--   탈락율(추적 손실)을 15%로 가정. <br><br>
+-   탈락율(추적 손실)은 15%로 가정. <br><br>
 -   **최종 4400명, 각 군 2200명**이 필요.
 
 ## Statistical analysis
@@ -134,12 +134,12 @@ editor: visual
 
 -   **6주: Treat-to-target 군의 LDL-C 수치가 유의미하게 더 높았다.** (69.6 mg/dL vs 66.8 mg/dL, P\<.001)
 -   **전체 기간: 두 군의 LDL-C 수치에 유의미한 차이 없었다.** (69.1mg/dL vs 68.4mg/dL; p=0.21)<br><br>
--   목표 도달: Treat-to-target 군의 목표 도달율이 6주, 3개월에서  유의미하게 낮았다.
+
 
 ## Endpoint
 
 -   Primary: **MACCE 누적발생률은 Treat-to-target 군에서 177명(8.1%), High-intensity 군에서 190명(8.7%)**으로 나타났다. 절대 차이는 -0.6%pp, 97.5% CI 상한은 1.1pp, **p-value는 \< 0.001** 이므로 비열등성을 증명하였다. <br><br>
--   Secondary: 두 군간 유의미한 차이 없었다. 사후 분석에서 신규 당뇨병 발생, 말기 신질환 등을 포함하는 복합 지표에서 Treat-to-target(6.1%)가 High-intensity(8.2%) 보다 낮은 발생률을 보여, 적은 부작용성을 보여준다.(P=0.009) <br><br>
+-   Secondary: **두 군간 유의미한 차이 없었다.** Post-hoc analysis에서 신규 당뇨병 발생, 말기 신질환 등을 포함하는 복합 지표는 Treat-to-target(6.1%)가 High-intensity(8.2%) 보다 낮은 발생률을 보여, 적은 부작용성을 보여준다.(P=0.009) <br><br>
 -   주요 결과지표에서 두 전략의 비교 결과는 모든 하위 그룹에서 일관되게 나타났다.
 
 ## LDL-C and Endpoints
@@ -156,16 +156,19 @@ editor: visual
 
 ## Conclusion
 
--   **LODESTAR 연구**는, 36개월동안 4400명의 CAD환자를 대상으로 follow-up을 진행한 결과, 전체 사망, 심근경색, 뇌졸중, 관상동맥 재혈관화를 고려한 **MACCE(& secondary endpoints)에서 treat-to-target strategy가 high-intensity strategy에 비해 열등하지 않음을 증명하였다.**
+-   **LODESTAR trial**은 3년 동안 4400명의 CAD환자를 대상으로 follow-up을 진행한 결과, 전체 사망, 심근경색, 뇌졸중, 관상동맥 재혈관화를 고려한 **MACCE(& secondary endpoints)에서 treat-to-target strategy가 high-intensity strategy에 비해 열등하지 않음을 증명하였다.**
 
 ## Discussion_1
 
--   Treat-to-target 군과 High-intensity 군의 **고강도 statin 사용**에는 큰 차이가 있었으나 (54% vs 92%) **치료 성적**은 차이가 없었다.
+-   Treat-to-target 군과 High-intensity 군의 **고강도 statin 사용**에는 큰 차이가 있었으나 (54% vs 92%) **치료 성적**은 차이가 없었다. <br><br>
 -   이는 treat-to-target strategy가 **개인 환자의 약물 반응을 고려한 맞춤형 접근법**임을 시사한다. 즉, 저강도 statin 요법에도 반응을 보이는 환자에게는 부작용을 감수하며 고강도 statin 요법을 사용할 필요가 없다.
--   Secondary endpoint가 treat-to-target 군에서 낮게 나타난 경향은 **treat-to-target strategy가 고강도 statin 요법의 부작용으로부터 비교적 안전함**을 시사한다.
--   실제로 2013 ACC/AHA 지침에서 고정용량 용법을 권고한 후 부작용 때문에 고강도 statin 요법을 중단하는 경우가 많아졌고, 최근 가이드라인은 ezetimibe 등의 약물과의 병용 요법을 권장한다.
 
 ## Discussion_2
+
+-   Secondary endpoint가 treat-to-target 군에서 낮게 나타난 경향은 **treat-to-target strategy가 고강도 statin 요법의 부작용으로부터 비교적 안전함**을 시사한다. <br><br>
+-   실제로 2013 ACC/AHA 지침에서 고정용량 용법을 권고한 후 부작용 때문에 고강도 statin 요법을 중단하는 경우가 많아졌고, 최근 가이드라인은 ezetimibe 등의 약물과의 병용 요법을 권장한다.
+
+## Discussion_3
 
 -   다만 treat-to-target strategy에서 유의할 점은 다음과 같다.
 -   **LDL-C 목표치를 적절히 고려해야 한다.** 본 연구는 70mg/dL 이하를 기준으로 삼았지만, 최근 유럽에서는 55mg/dL 이하를 권고했다.
