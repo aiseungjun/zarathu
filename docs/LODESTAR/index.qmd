@@ -61,7 +61,8 @@ editor: visual
 
 ### Statin intensity
 
-statin 강도는 2013 ACC/AHA 지침으로,
+Statin 강도는 2013 ACC/AHA 지침으로,
+
 -   고강도: Rosuvastatin 20mg or Atorvastatin 40mg
 -   중간 강도: Rosuvastatin 10mg or Atorvastatin 20mg
 
@@ -122,18 +123,17 @@ statin 강도는 2013 ACC/AHA 지침으로,
 ## Lipid lowering
 
 -   Treat-to-target 군은 1, 2, 3년 째 각각 **53%, 55%, 56%**가 고강도 statin 처방.
--   Treat-to-target 군은은 titrations는 17%는 상향, 9%는 하향 조정, 73%는 유지.<br><br>
+-   Treat-to-target 군의 titrations는 17%는 상향, 9%는 하향 조정, 73%는 유지.<br><br>
 -   High-intensity 군은 1, 2, 3년 째 각각 **93%, 91%, 89%**가 고강도 statin 처방받음.<br><br>
 -   Ezetimibe은 Treat-to-target 군에서 강하게 권고하지 않았음에도, 더 많이 사용.
 
 ## Lipid lowering
 
+::: panel-tabset
+### Lipid
+
 <img src="LOADSTAR Figure 2.png"/>
-
-## LDL-C level
-
--   **6주: Treat-to-target 군의 LDL-C 수치가 유의미하게 더 높았다.** (69.6 mg/dL vs 66.8 mg/dL, P\<.001)
--   **전체 기간: 두 군의 LDL-C 수치에 유의미한 차이 없었다.** (69.1mg/dL vs 68.4mg/dL; p=0.21)<br><br>
+:::
 
 
 ## Endpoint
@@ -141,6 +141,11 @@ statin 강도는 2013 ACC/AHA 지침으로,
 -   Primary: **MACCE 누적발생률은 Treat-to-target 군에서 177명(8.1%), High-intensity 군에서 190명(8.7%)**으로 나타났다. 절대 차이는 -0.6%pp, 97.5% CI 상한은 1.1pp, **p-value는 \< 0.001** 이므로 비열등성을 증명하였다. <br><br>
 -   Secondary: **두 군간 유의미한 차이 없었다.** Post-hoc analysis에서 신규 당뇨병 발생, 말기 신질환 등을 포함하는 복합 지표는 Treat-to-target(6.1%)가 High-intensity(8.2%) 보다 낮은 발생률을 보여, 적은 부작용성을 보여준다.(P=0.009) <br><br>
 -   주요 결과지표에서 두 전략의 비교 결과는 모든 하위 그룹에서 일관되게 나타났다.
+
+## LDL-C level
+
+-   **6주: Treat-to-target 군의 LDL-C 수치가 유의미하게 더 높았다.** (69.6 mg/dL vs 66.8 mg/dL, P\<.001)
+-   **전체 기간: 두 군의 LDL-C 수치에 유의미한 차이 없었다.** (69.1mg/dL vs 68.4mg/dL; p=0.21)<br><br>
 
 ## LDL-C and Endpoints
 

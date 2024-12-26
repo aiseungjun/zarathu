@@ -36,11 +36,11 @@ editor: visual
 ## Background_1
 
 -   **ASCVD** 환자는 **심혈관질환 고위험군**으로, **LDL-C 감소**가 예후를 크게 개선시키기 때문에 국제지침은 **고강도 statin 처방을** 권고하지만, **많은 부작용**이 있으며, 때문에 환자의 복약 순응도가 떨어진다. <br><br>
--   이에 또다른 지질강하제인 ezetimibe와의 병용에 대한 여러 RCT가 진행되었지만, 이들은 **동일 용량 statin**에서 **ezemtimibe의 부가적인 효과**를 검증하였기 때문에 **statin 복용량이 최대 용량에 도달했을 때 비로소 ezetimibe의 병용을 권고하였다.**
+-   이에 또다른 지질강하제인 ezetimibe와의 병용에 대한 여러 연구가 있었지만, 몇 연구들은ezemtimibe의 부가적인 효과에 대해서만 검증하였기 때문에, statin 복용량이 최대 용량에 도달했을 때 비로소 ezetimibe의 병용을 권고하였다.
 
 ## Background_2
 
--   또한, 중간 강도 statin과 ezetimibe의 병용요법을 고강도 statin 단독요법과 비교한 연구들이 있었으나, **환자수가 적고 (최대 891명), 추적관찰 기간이 짧았으며 (최장 24주), 임상 결과가 아닌 LDL-C 농도와 같은 표지자를 통해 평가하였다.** <br><br>
+-   중간 강도 statin과 ezetimibe의 병용요법을 고강도 statin 단독요법과 비교한 연구들 또한 있었으나, **환자수가 적고 (최대 891명), 추적관찰 기간이 짧았으며 (최장 24주), 임상 결과가 아닌 LDL-C 농도와 같은 표지자를 통해 평가하였다.** <br><br>
 -   따라서 위 저자들은 **효능과 안전성**의 측면에서, **중간 강도 statin과 ezetimibe의 병용 요법**이 **고강도 스타틴 단독요법에 비해** 비열등함(noninferior)을 검증하기 위해 **RACING** trial을 시행하였다.
 
 # Method
@@ -70,7 +70,7 @@ editor: visual
 
 -  **Primary Endpoint**: **Cardiovascular Death** (심혈관질환 사망) + **Major cardiovascular event** (주요 심혈관질환) + **Non-fatal stroke** (비치사성 뇌졸중) <br><br>
 
-- **Secondary Endpoint**: **1, 2, 3년째 환자들의 LDL-C \< 70mg/dL 도달율 **(Efficacy)과 **불내성으로 인한 감량 또는 중단 & 당뇨 & 근병증 등**(safety)
+- **Secondary Endpoint**: **1, 2, 3년째 환자들의 LDL-C \< 70mg/dL 도달율 **(Efficacy), 전체 사망, 주요 심혈관 사건, 비치명적 뇌졸중 합성 및 개별 구성성 지표,  **불내성으로 인한 감량 또는 중단 & 당뇨 & 근병증 등**(safety).
 
 ## Follow up
 
@@ -89,16 +89,18 @@ editor: visual
 ## Statistical analysis
 
 
--   범주형 변수 -\> N(%); Chi-square test OR Fisher's exact test
+-   범주형 변수 -\> N(%); Chi-square test or Fisher's exact test
 -   연속변수 -\> Mean ± SD OR Median(IQR); T-test OR Mann-Whitney U test<br><br>
 -   Primary endpoint -\> Log rank test, Cox proportional-hazards regression
--   Noninferiority는 두 군 primary endpoint 누적발생률 차이의 단측 95.0% CI 의 상한이 2.0% 미만일 때 선언.
 
 
 ## Study design
 
-<img src="RACING Study design.jpg"/>
+::: Process
+### Diagram
 
+<img src="RACING Study design.jpg"/>
+:::
 
 # Results
 
@@ -123,25 +125,26 @@ editor: visual
 
 ## Primary Endpoint
 
--   **병용요법 군, 단독요법 군의 Primary outcome 누적발생률이 각각 9.1%, 9.9%**로 나타났다. 절대 차이는 -0.78%pp; 95% CI는 -2.39pp to 0.83pp, 이므로 비열등성을 증명하였다. Post-hoc analysis에서는 one-sided 97∙5% CI의 상한선이 1.13%pp으로 non-inferiority margin 안으로 들어왔음을 보였다.
+-   **병용요법 군, 단독요법 군의 Primary outcome 누적발생률이 각각 9.1%, 9.9%**로 나타났다. 절대 차이는 -0.78%pp; 90% CI는 -2.39pp to 0.83pp, 이므로 비열등성을 증명하였다.
+-   Post-hoc analysis에서는 one-sided 97∙5% CI의 상한선이 1.13%pp으로 non-inferiority margin 안으로 들어왔음을 보였다.
 -   두 군의 1, 2, 3년째 용법 유지율은 95% vs 94%, 94% vs 91%, 93% vs 90% <br><br>
 -   두 군 모두 심근경색 발생율이 매우 낮았다.
 
 ## Clinical endpoint
 
 ::: panel-tabset
-### Table 2
+### Endpoints
 
 <img src="RACING Table 2.png"/>
 
-### Figure 2
+### Primary G
 
 <img src="RACING Figure 2.jpg"/>
 :::
 
 ## Secondary Endpoint
 
--   두 군의 1, 2, 3년째 LDL-C 목표 도달율은 각각 **73%** vs 55%, **75%** vs 60%, **72%** vs 58% (각각 모두두 p-value \< 0.0001)<br><br>
+-   두 군의 1, 2, 3년째 LDL-C 목표 도달율은 각각 **73%** vs 55%, **75%** vs 60%, **72%** vs 58% (각각 모두 p-value \< 0.0001)<br><br>
 -   사후 검정 결과 두 군의 1, 2, 3년째 LDL-C \< 50mg/dL 도달율은 최대 **45%** vs 29% <br><br>
 -   두 군의 LDL-C 중위값은 **58(48-71)mg/dL** vs 66(56-80)mg/dL (p-value \< 0.0001)
 
@@ -159,8 +162,10 @@ editor: visual
 
 -   Subgroup과 Per-protocol 분석에서도 결과 경향성 유지.
 
+::: panel-tabset
+### Subgroup
 <img src="RACING Figure 3.png"/>
-
+:::
 
 ## Conclusion
 
